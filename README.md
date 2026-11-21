@@ -61,10 +61,13 @@ A DSA-based project developed using C, featuring inventory management, linked li
 
 ### 📊 GitHub Activity
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SrinivasSrikarNimmaka&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SRIKAR6415&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRIKAR6415&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+</p>
 ---
 
 ### 🤝 Let's Connect
